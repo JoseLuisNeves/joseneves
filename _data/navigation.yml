@@ -4,8 +4,8 @@ main:
     url: /publications/  
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://github.com/JoseLuisNeves
     
   - title: "CV"
-    url: /cv/
+    url: /files/JoseLNevesCV.pdf
     
